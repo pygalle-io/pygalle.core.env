@@ -1,0 +1,13 @@
+package:
+  name: pygalle.core.env
+github:
+  username: pygalle-io
+  repository: pygalle.core.env
+workInProgress: true
+credits: []
+copyright:
+  year: 2018
+  author:
+    name: SAS 9 Février
+    url: https://9fevrier.com/
+example:

@@ -1,0 +1,3 @@
+setuptools
+dotmap
+pygalle.core.base.klass
